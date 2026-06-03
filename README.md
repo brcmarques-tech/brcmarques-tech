@@ -4,33 +4,34 @@
 
 ```
 NestJS · TypeScript · Next.js · React · Postgres · Redis
-Docker · Render · Vercel · AWS · GitHub Actions · CI/CD
+Docker · Render · Vercel · AWS · GitLab CI/CD
 ```
 
 ---
 
 ### 🛠️ Stack do dia a dia
 
-- **Back:** NestJS, Express, TypeORM, Prisma, Postgres
-- **Front:** Next.js, React, TailwindCSS, vanilla JS quando o caso pede
-- **Infra:** Docker, Nginx, Render, Vercel, Cloudflare, AWS Lightsail
-- **Mobile:** React Native (em construção)
+- **Back:** NestJS, GraphQL, TypeORM, Prisma, Postgres, Redis
+- **Front:** Next.js, React, Apollo Client, TailwindCSS, Chakra UI
+- **Mobile:** React Native (Expo)
+- **Infra:** Docker, Nginx, AWS Lightsail, Render, Vercel, GitLab CI/CD
 
 ### 🚀 O que faço
 
-Sou freelancer Full Stack que entrega **produto inteiro**: arquitetura, backend, frontend, deploy e mantimento.
-Construo SaaS, e-commerce, dashboards admin, integrações com APIs externas — do zero ou continuando código existente.
+Full Stack que entrega **produto inteiro**: arquitetura, backend, frontend, deploy e manutenção.
+Construo SaaS, e-commerce, marketplaces, dashboards admin, integrações com APIs externas — do zero ou continuando código existente.
 
-### 🌱 Trabalhando agora em
+### 🌱 Onde trabalho hoje
 
-- **Efficlin** — meu próprio SaaS
-- **bcmTech** — agência onde toco freela e meus produtos
-- Projetos pessoais que aparecem em **pinned** acima ⬆️
+- **bcmTech** — CEO + Full Stack/DevOps Lead. Marketplace/delivery multi-vendor com 7 apps integrados (API + 4 frontends + mobile + microservice de WhatsApp).
+- **Efficlin** — Full Stack/DevOps. SaaS B2B multi-tenant para clínicas de fisioterapia.
 
 ### 📫 Contato
 
 - 🌐 [bcmtech.com.br](https://bcmtech.com.br)
-- ✉️ dev.efficlin@gmail.com
+- ✉️ bcmtechdev@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-marques-2516ab214/)
+- 📍 Arroio Grande, RS — Brasil
 
 ---
 
