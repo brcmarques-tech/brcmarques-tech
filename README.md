@@ -3,8 +3,8 @@
 **Full Stack + DevOps** · Construindo produtos do zero ao deploy.
 
 <p align="center">
-  <a href="https://brcmarques.dev">
-    <img src="https://img.shields.io/badge/PORTF%C3%93LIO-brcmarques.dev-3ba2ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio brcmarques.dev" />
+  <a href="https://brcmarques-tech.github.io">
+    <img src="https://img.shields.io/badge/PORTF%C3%93LIO-Acessar-3ba2ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
   </a>
   <a href="https://www.linkedin.com/in/bruno-marques-2516ab214/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-> ### 👉 Veja meu portfólio completo: **[brcmarques.dev](https://brcmarques.dev)**
+> ### 👉 Meu portfólio completo: **[brcmarques-tech.github.io](https://brcmarques-tech.github.io)**
 
 ```
 NestJS · TypeScript · Next.js · React · Postgres · Redis
@@ -27,11 +27,11 @@ Docker · Render · Vercel · AWS · GitLab CI/CD
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| **[EffiClin](https://brcmarques.dev/projects/efficlin.html)** ↗ | SaaS multi-tenant de gestão para clínicas de saúde — em produção. | NestJS · GraphQL · Next.js · Postgres |
-| **[bcmTech Shopping](https://brcmarques.dev/projects/bcm-shopping.html)** ↗ | Plataforma de delivery/marketplace (estilo iFood) — 4 apps integrados. | NestJS · GraphQL · React Native · Next.js |
-| **[Procure.job](https://brcmarques.dev/projects/procure-job.html)** ↗ | Copiloto com IA para freelancers — no ar. | Next.js · TypeScript · Prisma · Claude |
+| **[EffiClin](https://brcmarques-tech.github.io/projects/efficlin.html)** ↗ | SaaS multi-tenant de gestão para clínicas de saúde — em produção. | NestJS · GraphQL · Next.js · Postgres |
+| **[bcmTech Shopping](https://brcmarques-tech.github.io/projects/bcm-shopping.html)** ↗ | Plataforma de delivery/marketplace (estilo iFood) — 4 apps integrados. | NestJS · GraphQL · React Native · Next.js |
+| **[Procure.job](https://brcmarques-tech.github.io/projects/procure-job.html)** ↗ | Copiloto com IA para freelancers — no ar. | Next.js · TypeScript · Prisma · Claude |
 
-> 📂 Todos os cases e telas no portfólio: **[brcmarques.dev](https://brcmarques.dev)**
+> 📂 Todos os cases e telas no portfólio: **[brcmarques-tech.github.io](https://brcmarques-tech.github.io)**
 
 ---
 
@@ -54,7 +54,7 @@ Construo SaaS, e-commerce, marketplaces, dashboards admin, integrações com API
 
 ### 📫 Contato
 
-- 🌐 Portfólio: [brcmarques.dev](https://brcmarques.dev)
+- 🌐 Portfólio: [brcmarques-tech.github.io](https://brcmarques-tech.github.io)
 - 🌐 Empresa: [bcmtech.com.br](https://bcmtech.com.br)
 - ✉️ bcmtechdev@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-marques-2516ab214/)
